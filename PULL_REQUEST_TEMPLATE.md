@@ -24,7 +24,7 @@
 - 確認対象の画面
 - 確認対象の商品種別
 - 実施したテスト内容
-- [バグが起こりやすい機能実装](https://linkprocessing.atlassian.net/wiki/spaces/system/pages/2952331327)の内容を確認したか(追記も考える)
+- [バグが起こりやすい機能実装](https://linkprocessing.atlassian.net/wiki/spaces/system/pages/2952331327)(どんどん追記してください)の内容を確認したか
 
 ## 特にレビューをお願いしたい箇所
 特にチェックをお願いしたいポイントを簡潔に記述する
