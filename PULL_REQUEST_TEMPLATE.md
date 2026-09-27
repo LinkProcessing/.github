@@ -19,5 +19,8 @@
 - [ ] なるべく早く
 - [ ] お時間あるときで OK
 
+## コーディングチェックリスト
+https://linkprocessing.atlassian.net/wiki/spaces/system/pages/5022711815
+
 ## その他
 - その他、特記すべき事項を記述  
