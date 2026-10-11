@@ -20,7 +20,7 @@
 - [ ] お時間あるときで OK
 
 ## コーディングチェックリスト
-https://linkprocessing.atlassian.net/wiki/spaces/system/pages/5022711815
+https://docs.google.com/spreadsheets/d/1Q7RZT0S_byMFYrqZm1uafT_cYHxK-YkA/edit?pli=1&gid=392174924#gid=392174924
 
 ## その他
 - その他、特記すべき事項を記述  
